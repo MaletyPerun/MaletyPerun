@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I`m Alexey Teplyakov
 
-<!--
-**MaletyPerun/MaletyPerun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beginner java developer
+
+![java](https://camo.githubusercontent.com/c337f25b95f53e993f18d8bd934183b86cf09dc9beb74f76ea9e0b56dd58579f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3061306130613f7374796c653d666f722d7468652d6261646765266c6f676f3d4f70656e4a444b)
+
 
 Here are some ideas to get you started:
 
