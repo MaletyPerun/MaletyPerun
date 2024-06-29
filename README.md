@@ -27,6 +27,5 @@ Beginner java developer
 - 👯 I’m looking to collaborate on OpenSpace projects
 - 🤔 I'm looking for help with employment 
 - 💬 Ask me about my skills and projects:
-- ![Tg](https://github.com/MaletyPerun/MaletyPerun/assets/104371598/c66c0179-5471-4025-9e1a-67eef827e535) ![Teletgam]()
-  [@PerunFly](http://t-do.ru/PerunFly "Telegram channel")
+- ![Tg](https://github.com/MaletyPerun/MaletyPerun/assets/104371598/c66c0179-5471-4025-9e1a-67eef827e535) [@PerunFly](http://t-do.ru/PerunFly "Telegram channel")
 
